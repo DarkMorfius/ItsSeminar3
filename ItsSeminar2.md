@@ -37,3 +37,9 @@ PS C:\путь проекта> git branch
 
 ## Conflicts
 
+Конфликты возникают при наличии сливаемых веток commit, претендующих на общее  рабочее пространство.
+
+**Пример** 
+
+![Conflicts_screen](Conflicts_screenshot.png)
+
