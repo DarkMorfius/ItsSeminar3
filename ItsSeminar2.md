@@ -35,5 +35,5 @@ PS C:\путь проекта> git branch
 
 
 
-## Conflists
+## Conflicts
 
