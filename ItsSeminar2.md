@@ -36,7 +36,7 @@ PS C:\путь проекта> git branch
 
 **Пример**: 
 
-![Conflicts_screen](Conflicts_screenshot.png)
+![Conflicts screen](Conflicts_screenshot.png)
 
 На скриншоте выше, я добавил пустые строки в ветке Master. Подобных изменений не вносил в ветку Conflicts. Из-за чего и получил такое сообщение. В случае, если необходимо использовать изменения, которые были проделаны в ветке Conflicts нужно выбрать Accept Incoming Change (подтвердить входящие изменения), в ином случае Accept current change.
 
